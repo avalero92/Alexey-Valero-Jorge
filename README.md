@@ -3,9 +3,9 @@
 layout: default
 ---
 
-# ¡Hola, soy [Tu Nombre]!
+# ¡Hola, soy Alexey Valero Jorge!
 
-Desarrollador web y entusiasta de la tecnología.
+Ing. Hidrógrafo Geodesta; MCs. Geoinformática para la Gestión de los Recursos Naturales
 
 ## Sobre Mí
 
