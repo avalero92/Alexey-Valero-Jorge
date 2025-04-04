@@ -1,7 +1,4 @@
 # Personal Web
----
-layout: default
----
 
 # ¡Hola, soy Alexey Valero Jorge!
 
